@@ -1,0 +1,12 @@
+name: ClassApp
+title: ClassApp
+username: nsilbiger
+account: nsilbiger
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13319906
+bundleId: 9353872
+url: https://nsilbiger.shinyapps.io/ClassApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
